@@ -25,5 +25,5 @@ in this lab we started working with django, here is the steps we followed to cre
 in this lab we created the CRUD for the snacks, we created a view for list, detail, update , create and delete.
 
 ## pull request link 
-https://github.com/SalimHass/django-models/pull/1
+https://github.com/SalimHass/django-crud/pull/1
 
